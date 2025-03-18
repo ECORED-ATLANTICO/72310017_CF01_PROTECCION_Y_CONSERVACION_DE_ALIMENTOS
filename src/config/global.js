@@ -1,8 +1,7 @@
 export default {
   global: {
-    componenteFormativo:
-      'Seguridad alimentaria y buenas prácticas de manufactura',
-    descripcionCurso:
+    Name: 'Seguridad alimentaria y buenas prácticas de manufactura',
+    Description:
       'La clasificación de los alimentos es clave para su uso adecuado, conservación y prevención de su deterioro o contaminación. Comprender los peligros que afectan la seguridad alimentaria, como los factores que causan su deterioro, permite identificar las mejores prácticas para un manejo adecuado de la cadena alimentaria, desde la producción hasta el consumo, asegurando la inocuidad y calidad de los alimentos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
